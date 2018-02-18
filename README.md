@@ -9,6 +9,7 @@ Generating spring boot micro-service from swagger editor
 3. Remove scope tag from tomcat dependency
 4. Run spring boot application and test rest calls
 5. Swagger yaml file attached in spring boot resources folder
+6. Swagger ui -  http://localhost:8080/v2/swagger-ui.html
 
 #### This method can also be followed for the TMForum swagger code gen - OpenAPI's
 https://projects.tmforum.org/wiki/display/API/Open+API+Table?_ga=2.135373297.1527475273.1518982686-1034505948.1514628225
